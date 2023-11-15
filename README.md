@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hello Friend! 🤖
 
-<!--
-**dionmaicon/dionmaicon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm probably doing something random in somewhere. I'm fascinated about doing the things hard to discover, hard to get into and hard to break out. No extra info will be add to this context, figure it out.
 
-Here are some ideas to get you started:
+I promise, I'll update this site:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Blog](https://img.shields.io/website?label=ClubedoBlockchain.com&style=for-the-badge&url=https://clubedoblockchain.com)](https://clubedoblockchain.com)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dionmaicon&show_icons=true&theme=radical)
+
+
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/-Ethers.js-3C4BCC?style=flat)
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat)
+![Hardhat](https://img.shields.io/badge/-Hardhat-4051B5?style=flat)
+![Polkadot](https://img.shields.io/badge/-Polkadot-E6007A?style=flat&logo=polkadot)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum)
+![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white)
+

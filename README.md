@@ -6,7 +6,7 @@ I promise, I'll update this site:
 
 [![Blog](https://img.shields.io/website?label=ClubedoBlockchain.com&style=for-the-badge&url=https://clubedoblockchain.com)](https://clubedoblockchain.com)
 
-[![Blog](https://img.shields.io/website?label=Blog.com&style=for-the-badge&url=https://dionmaicon.github.io)](https://dionmaicon.github.io)
+[![Blog](https://img.shields.io/website?label=Blog&style=for-the-badge&url=https://dionmaicon.github.io)](https://dionmaicon.github.io)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dionmaicon&show_icons=true&theme=radical)

@@ -1,10 +1,10 @@
 ### Hello Friend! 🤖
 
-I'm probably doing something random in somewhere. I'm fascinated about doing the things hard to discover, hard to get into and hard to break out. No extra info will be add to this context, figure it out.
+I'm probably doing something random in somewhere.
 
 I promise, I'll update this site:
 
-[![Blog](https://img.shields.io/website?label=ClubedoBlockchain.com&style=for-the-badge&url=https://clubedoblockchain.com)](https://clubedoblockchain.com)
+[![Blog](https://img.shields.io/website?label=TcheBlock.com&style=for-the-badge&url=https://tcheblock.com)](https://tcheblock.com)
 
 [![Blog](https://img.shields.io/website?label=Blog&style=for-the-badge&url=https://dionmaicon.github.io)](https://dionmaicon.github.io)
 

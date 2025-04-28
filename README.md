@@ -9,6 +9,7 @@ I promise, I'll update this site:
 [![Blog](https://img.shields.io/website?label=Blog&style=for-the-badge&url=https://dionmaicon.github.io)](https://dionmaicon.github.io)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionmaicon&layout=donut&theme=radical&hide=html,css,php,Java,PLpgSQL,Javascript)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dionmaicon&show_icons=true&theme=radical)
 
 

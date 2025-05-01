@@ -14,7 +14,7 @@ I promise, I'll update this site:
 
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
@@ -24,7 +24,7 @@ I promise, I'll update this site:
 ![Ethers.js](https://img.shields.io/badge/-Ethers.js-3C4BCC?style=flat)
 ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat)
 ![Hardhat](https://img.shields.io/badge/-Hardhat-4051B5?style=flat)
-![Polkadot](https://img.shields.io/badge/-Polkadot-E6007A?style=flat&logo=polkadot)
+![Polkadot](https://img.shields.io/badge/-Solana-14F195?style=flat&logo=solana)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum)
 ![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white)
 

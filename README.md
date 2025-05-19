@@ -1,8 +1,8 @@
 ### Hello Friend! 🤖
 
-I'm probably doing something random in somewhere.
+Cryptography, Decentralization, Economic Libertarianism and Blockchain.
 
-I promise, I'll update this site:
+I'm cooking somewhere.
 
 [![Blog](https://img.shields.io/website?label=TcheBlock.com&style=for-the-badge&url=https://tcheblock.com)](https://tcheblock.com)
 

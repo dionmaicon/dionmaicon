@@ -2,9 +2,8 @@
 
 Cryptography, Decentralization, Economic Libertarianism and Blockchain.
 
-I'm cooking somewhere.
 
-[![Blog](https://img.shields.io/website?label=TcheBlock.com&style=for-the-badge&url=https://tcheblock.com)](https://tcheblock.com)
+[![Blog](https://img.shields.io/website?label=TcheBit.com&style=for-the-badge&url=https://tcheblock.com)](https://tchebit.com)
 
 [![Blog](https://img.shields.io/website?label=Blog&style=for-the-badge&url=https://dionmaicon.github.io)](https://dionmaicon.github.io)
 
